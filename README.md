@@ -6,6 +6,3 @@ This Bank Loan Report includes Tableau file containing visualizations used to cr
 
 # Tools Used
 Tableau: Dynamic and interactive visualizations are crafted in Tableau to present key findings effectively.
-
-# Dashboards
-Dashboard 1: Analyzing the loan amount yearly and quarterly.
